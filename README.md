@@ -5,5 +5,9 @@ This code was written in the fall of 2015. This program takes in a given wordsea
 that follows the established format and will relay the location of the words if they are
 within the puzzle or if they simply are not.
 
+wordsearch.h and dictionary.txt are required to run the program
+
 Code can be run by compiling with gcc and entering the command:
 ./a.out < input.txt > output.txt
+
+
