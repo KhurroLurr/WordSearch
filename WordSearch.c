@@ -1,5 +1,4 @@
 // Nicholas Espinosa
-// PID n2431401
 // COP 3502C - 0001
 // HW 2 - WordSearch
 
